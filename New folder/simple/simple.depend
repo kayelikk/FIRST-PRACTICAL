@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1712476424 source:c:\users\hp\documents\new folder\simple\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1712476424 source:c:\users\hp\desktop\simple\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+

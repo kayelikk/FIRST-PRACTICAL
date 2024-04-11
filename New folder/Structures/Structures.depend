@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712478253 source:c:\users\hp\desktop\structures\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

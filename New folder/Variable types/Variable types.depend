@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1710927980 source:c:\users\hp\documents\new folder\variable types\main.c
+	<stdio.h>
+	<stdbool.h>
+
+1710927980 source:c:\users\hp\desktop\variable types\main.c
+	<stdio.h>
+	<stdbool.h>
+
